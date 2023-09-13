@@ -1,0 +1,13 @@
+h1 {
+    color: black;
+    font-family: Algerian;
+    font-size: 40px;
+    text-align: center;
+}
+body {
+    background-color: brown;
+}
+img {
+    width: 400px;
+    height: 600;
+}
